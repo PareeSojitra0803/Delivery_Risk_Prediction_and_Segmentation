@@ -1,0 +1,7 @@
+item,value
+random_seed,42.0
+batch_size,16.0
+maximum_epochs,50.0
+patience,5.0
+actual_epochs,41.0
+best_validation_loss,0.43581584095954895

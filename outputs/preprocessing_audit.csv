@@ -1,0 +1,9 @@
+check,value
+fit_rows,192
+validation_rows,48
+test_rows,60
+feature_count,7
+missing_values_fit,0
+infinite_values_fit,0
+target_in_features,False
+record_id_in_features,False
