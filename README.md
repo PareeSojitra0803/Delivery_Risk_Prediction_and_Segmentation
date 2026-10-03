@@ -1,4 +1,4 @@
-# 📊 Delivery Risk Prediction and Segmentation — Set C
+# 📊 Delivery Risk Prediction and Segmentation
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-purple)
@@ -29,7 +29,6 @@
 - [🎥 Project Demonstration](#-project-demonstration)
 - [📦 Requirements](#-requirements)
 - [👨‍💻 Author](#-author)
-- [📚 References & Declaration](#-references--declaration)
 
 ---
 
